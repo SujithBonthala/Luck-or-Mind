@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=Amount1\ Amount2\ Amount3\ Name1\ Name2\ Name3
+comment0.target=void\ Result3(double,\ double,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=Move\ Amount\ Name1\ Name2
+comment1.target=java.lang.String\ Revenge2(int,\ double,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ P3()
+numComments=3

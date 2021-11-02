@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=void\ Spaces(int[][])
+comment1.params=
+comment1.target=void\ display()
+comment2.params=
+comment2.target=boolean\ Puzzle3()
+comment3.params=n1\ n2\ n3\ n4
+comment3.target=boolean\ Puzzle4(int,\ int,\ int,\ int)
+comment4.params=n2
+comment4.target=void\ Answer_Puzzle4(int)
+numComments=5
